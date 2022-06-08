@@ -19,7 +19,7 @@
                (html:meta :name "viewport" :content "width=device-width, initial-scale=1.0")
                (html:link :rel "stylesheet" :href "/style.css")
                (html:link :rel "shortcut icon" :href "/icon.webp")
-               (html:title "Экспертная система \"Официант\"")))
+               (html:title "Экспертная система \"Кулинар\"")))
 
 (define-http-handler "/"
     (lambda (req app)
